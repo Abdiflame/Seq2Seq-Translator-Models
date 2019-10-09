@@ -3,4 +3,4 @@ Here I present several Seq2Seq models using AutoEncoders and their variations, a
 
 ## Movies Dataset
 ### Cornell Movie Corpus
-Can be found on: http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
+Can be found at: http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
