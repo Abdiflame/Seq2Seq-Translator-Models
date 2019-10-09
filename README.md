@@ -1,5 +1,5 @@
-# sequenceToSequence
-Seq2Seq models using AutoEncoders.
+# Welcome to Sequence to Sequence models repository
+Here I present several Seq2Seq models using AutoEncoders and their variations, applied to translator, chatbot and sequence reconstruction applications.
 
 ## Movies Dataset
 ### Cornell Movie Corpus
